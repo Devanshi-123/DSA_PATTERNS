@@ -1,0 +1,531 @@
+42. Trapping Rain Water
+64.7%
+Hard
+
+20. Valid Parentheses
+42.1%
+Easy
+
+1526. Minimum Number of Increments on Subarrays to Form a Target Array
+72.2%
+Hard
+
+84. Largest Rectangle in Histogram
+47.0%
+Hard
+
+394. Decode String
+60.9%
+Med.
+
+85. Maximal Rectangle
+53.3%
+Hard
+
+239. Sliding Window Maximum
+47.4%
+Hard
+
+224. Basic Calculator
+45.3%
+Hard
+
+975. Odd Even Jump
+40.7%
+Hard
+
+234. Palindrome Linked List
+55.5%
+Easy
+
+402. Remove K Digits
+34.7%
+Med.
+
+962. Maximum Width Ramp
+55.7%
+Med.
+
+155. Min Stack
+56.2%
+Med.
+
+739. Daily Temperatures
+67.2%
+Med.
+
+94. Binary Tree Inorder Traversal
+78.3%
+Easy
+
+907. Sum of Subarray Minimums
+37.5%
+Med.
+
+32. Longest Valid Parentheses
+36.0%
+Hard
+
+503. Next Greater Element II
+65.9%
+Med.
+
+150. Evaluate Reverse Polish Notation
+54.5%
+Med.
+
+1944. Number of Visible People in a Queue
+70.9%
+Hard
+
+2762. Continuous Subarrays
+58.0%
+Med.
+
+71. Simplify Path
+47.3%
+Med.
+
+143. Reorder List
+62.1%
+Med.
+
+1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit
+56.7%
+Med.
+
+114. Flatten Binary Tree to Linked List
+68.1%
+Med.
+
+853. Car Fleet
+53.2%
+Med.
+
+1381. Design a Stack With Increment Operation
+80.1%
+Med.
+
+2407. Longest Increasing Subsequence II
+25.4%
+Hard
+
+735. Asteroid Collision
+45.3%
+Med.
+
+388. Longest Absolute File Path
+48.3%
+Med.
+
+2863. Maximum Length of Semi-Decreasing Subarrays
+70.1%
+Med.
+
+316. Remove Duplicate Letters
+51.1%
+Med.
+
+1249. Minimum Remove to Make Valid Parentheses
+70.5%
+Med.
+
+844. Backspace String Compare
+49.4%
+Easy
+
+901. Online Stock Span
+67.1%
+Med.
+
+496. Next Greater Element I
+74.2%
+Easy
+
+1021. Remove Outermost Parentheses
+85.3%
+Easy
+
+1544. Make The String Great
+68.2%
+Easy
+
+225. Implement Stack using Queues
+66.9%
+Easy
+
+232. Implement Queue using Stacks
+67.8%
+Easy
+
+321. Create Maximum Number
+32.2%
+Hard
+
+341. Flatten Nested List Iterator
+65.1%
+Med.
+
+769. Max Chunks To Make Sorted
+64.0%
+Med.
+
+581. Shortest Unsorted Continuous Subarray
+37.3%
+Med.
+
+726. Number of Atoms
+65.0%
+Hard
+
+227. Basic Calculator II
+45.6%
+Med.
+
+1673. Find the Most Competitive Subsequence
+51.6%
+Med.
+
+2296. Design a Text Editor
+46.8%
+Hard
+
+1756. Design Most Recently Used Queue
+77.7%
+Med.
+
+862. Shortest Subarray with Sum at Least K
+32.2%
+Hard
+
+1793. Maximum Score of a Good Subarray
+64.2%
+Hard
+
+1996. The Number of Weak Characters in the Game
+44.2%
+Med.
+
+3420. Count Non-Decreasing Subarrays After K Operations
+20.1%
+Hard
+
+173. Binary Search Tree Iterator
+74.6%
+Med.
+
+1717. Maximum Score From Removing Substrings
+62.8%
+Med.
+
+1441. Build an Array With Stack Operations
+80.1%
+Med.
+
+1047. Remove All Adjacent Duplicates In String
+71.3%
+Easy
+
+636. Exclusive Time of Functions
+64.5%
+Med.
+
+1776. Car Fleet II
+56.2%
+Hard
+
+1910. Remove All Occurrences of a Substring
+78.0%
+Med.
+
+1499. Max Value of Equation
+44.5%
+Hard
+
+1504. Count Submatrices With All Ones
+57.2%
+Med.
+
+1081. Smallest Subsequence of Distinct Characters
+61.8%
+Med.
+
+144. Binary Tree Preorder Traversal
+72.8%
+Easy
+
+678. Valid Parenthesis String
+38.8%
+Med.
+
+2116. Check if a Parentheses String Can Be Valid
+44.8%
+Med.
+
+768. Max Chunks To Make Sorted II
+54.1%
+Hard
+
+272. Closest Binary Search Tree Value II
+60.2%
+Hard
+
+331. Verify Preorder Serialization of a Binary Tree
+46.0%
+Med.
+
+2254. Design Video Sharing Platform
+63.6%
+Hard
+
+2334. Subarray With Elements Greater Than Varying Threshold
+44.4%
+Hard
+
+3174. Clear Digits
+82.6%
+Easy
+
+921. Minimum Add to Make Parentheses Valid
+74.7%
+Med.
+
+145. Binary Tree Postorder Traversal
+75.3%
+Easy
+
+1096. Brace Expansion II
+63.1%
+Hard
+
+683. K Empty Slots
+37.2%
+Hard
+
+2345. Finding the Number of Visible Mountains
+36.7%
+Med.
+
+1896. Minimum Cost to Change the Final Value of Expression
+50.7%
+Hard
+
+484. Find Permutation
+66.9%
+Med.
+
+1963. Minimum Number of Swaps to Make the String Balanced
+77.9%
+Med.
+
+1106. Parsing A Boolean Expression
+69.9%
+Hard
+
+1653. Minimum Deletions to Make String Balanced
+65.6%
+Med.
+
+682. Baseball Game
+78.5%
+Easy
+
+1008. Construct Binary Search Tree from Preorder Traversal
+83.1%
+Med.
+
+1475. Final Prices With a Special Discount in a Shop
+83.2%
+Easy
+
+1472. Design Browser History
+77.7%
+Med.
+
+918. Maximum Sum Circular Subarray
+47.3%
+Med.
+
+2444. Count Subarrays With Fixed Bounds
+69.4%
+Hard
+
+2945. Find Maximum Non-decreasing Array Length
+16.9%
+Hard
+
+2645. Minimum Additions to Make Valid String
+50.1%
+Med.
+
+772. Basic Calculator III
+52.2%
+Hard
+
+2130. Maximum Twin Sum of a Linked List
+81.4%
+Med.
+
+1614. Maximum Nesting Depth of the Parentheses
+84.3%
+Easy
+
+1700. Number of Students Unable to Eat Lunch
+78.6%
+Easy
+
+1190. Reverse Substrings Between Each Pair of Parentheses
+71.7%
+Med.
+
+1696. Jump Game VI
+45.9%
+Med.
+
+2816. Double a Number Represented as a Linked List
+61.2%
+Med.
+
+364. Nested List Weight Sum II
+65.4%
+Med.
+
+897. Increasing Order Search Tree
+78.6%
+Easy
+
+2818. Apply Operations to Maximize Score
+54.2%
+Hard
+
+456. 132 Pattern
+34.0%
+Med.
+
+946. Validate Stack Sequences
+69.6%
+Med.
+
+2487. Remove Nodes From Linked List
+74.3%
+Med.
+
+1574. Shortest Subarray to be Removed to Make Array Sorted
+51.5%
+Med.
+
+2104. Sum of Subarray Ranges
+60.2%
+Med.
+
+716. Max Stack
+45.4%
+Hard
+
+2696. Minimum String Length After Removing Substrings
+77.1%
+Easy
+
+590. N-ary Tree Postorder Traversal
+80.6%
+Easy
+
+1209. Remove All Adjacent Duplicates in String II
+59.4%
+Med.
+
+2390. Removing Stars From a String
+77.7%
+Med.
+
+445. Add Two Numbers II
+61.7%
+Med.
+
+1019. Next Greater Node In Linked List
+62.1%
+Med.
+
+2000. Reverse Prefix of Word
+86.4%
+Easy
+
+2940. Find Building Where Alice and Bob Can Meet
+52.4%
+Hard
+
+1130. Minimum Cost Tree From Leaf Values
+67.6%
+Med.
+
+1425. Constrained Subsequence Sum
+56.4%
+Hard
+
+2375. Construct Smallest Number From DI String
+85.8%
+Med.
+
+2589. Minimum Time to Complete All Tasks
+37.1%
+Hard
+
+1541. Minimum Insertions to Balance a Parentheses String
+53.1%
+Med.
+
+654. Maximum Binary Tree
+85.9%
+Med.
+
+3523. Make Array Non-decreasing
+53.3%
+Med.
+
+1598. Crawler Log Folder
+71.6%
+Easy
+
+736. Parse Lisp Expression
+52.5%
+Hard
+
+426. Convert Binary Search Tree to Sorted Doubly Linked List
+65.4%
+Med.
+
+1172. Dinner Plate Stacks
+32.7%
+Hard
+
+589. N-ary Tree Preorder Traversal
+76.1%
+Easy
+
+770. Basic Calculator IV
+48.5%
+Hard
+
+2751. Robot Collisions
+56.1%
+Hard
+
+2289. Steps to Make Array Non-decreasing
+23.0%
+Med.
+
+1762. Buildings With an Ocean View
+80.7%
+Med.
+
+856. Score of Parentheses
+63.7%
+Med.
+
+3229. Minimum Operations to Make Array Equal to Target
+38.6%
+Hard
+
+1856. Maximum Subarray Min-Product
+38.8%
+Med.

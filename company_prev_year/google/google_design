@@ -1,0 +1,388 @@
+359. Logger Rate Limiter
+76.4%
+Easy
+
+146. LRU Cache
+44.9%
+Med.
+
+295. Find Median from Data Stream
+53.1%
+Hard
+
+715. Range Module
+44.1%
+Hard
+
+1825. Finding MK Average
+37.9%
+Hard
+
+380. Insert Delete GetRandom O(1)
+54.9%
+Med.
+
+2013. Detect Squares
+51.1%
+Med.
+
+155. Min Stack
+56.2%
+Med.
+
+346. Moving Average from Data Stream
+79.8%
+Easy
+
+1146. Snapshot Array
+36.7%
+Med.
+
+208. Implement Trie (Prefix Tree)
+67.6%
+Med.
+
+362. Design Hit Counter
+69.1%
+Med.
+
+2349. Design a Number Container System
+57.3%
+Med.
+
+729. My Calendar I
+58.1%
+Med.
+
+460. LFU Cache
+46.2%
+Hard
+
+1381. Design a Stack With Increment Operation
+80.1%
+Med.
+
+1352. Product of the Last K Numbers
+62.7%
+Med.
+
+297. Serialize and Deserialize Binary Tree
+58.7%
+Hard
+
+900. RLE Iterator
+58.9%
+Med.
+
+901. Online Stock Span
+67.1%
+Med.
+
+2034. Stock Price Fluctuation
+47.9%
+Med.
+
+703. Kth Largest Element in a Stream
+59.7%
+Easy
+
+225. Implement Stack using Queues
+66.9%
+Easy
+
+232. Implement Queue using Stacks
+67.8%
+Easy
+
+271. Encode and Decode Strings
+49.3%
+Med.
+
+341. Flatten Nested List Iterator
+65.1%
+Med.
+
+981. Time Based Key-Value Store
+49.3%
+Med.
+
+1483. Kth Ancestor of a Tree Node
+35.4%
+Hard
+
+308. Range Sum Query 2D - Mutable
+44.8%
+Med.
+
+2296. Design a Text Editor
+46.8%
+Hard
+
+1756. Design Most Recently Used Queue
+77.7%
+Med.
+
+173. Binary Search Tree Iterator
+74.6%
+Med.
+
+353. Design Snake Game
+39.1%
+Med.
+
+379. Design Phone Directory
+52.3%
+Med.
+
+1032. Stream of Characters
+51.1%
+Hard
+
+604. Design Compressed String Iterator
+40.1%
+Easy
+
+642. Design Search Autocomplete System
+49.3%
+Hard
+
+731. My Calendar II
+62.2%
+Med.
+
+281. Zigzag Iterator
+65.5%
+Med.
+
+303. Range Sum Query - Immutable
+67.9%
+Easy
+
+911. Online Election
+51.7%
+Med.
+
+933. Number of Recent Calls
+77.1%
+Easy
+
+535. Encode and Decode TinyURL
+86.3%
+Med.
+
+1993. Operations on Tree
+43.0%
+Med.
+
+676. Implement Magic Dictionary
+56.5%
+Med.
+
+1600. Throne Inheritance
+64.5%
+Med.
+
+211. Design Add and Search Words Data Structure
+46.8%
+Med.
+
+732. My Calendar III
+70.6%
+Hard
+
+251. Flatten 2D Vector
+50.1%
+Med.
+
+284. Peeking Iterator
+60.2%
+Med.
+
+706. Design HashMap
+65.8%
+Easy
+
+1206. Design Skiplist
+57.9%
+Hard
+
+2286. Booking Concert Tickets in Groups
+17.4%
+Hard
+
+2254. Design Video Sharing Platform
+63.6%
+Hard
+
+2424. Longest Uploaded Prefix
+53.6%
+Med.
+
+1286. Iterator for Combination
+72.4%
+Med.
+
+1622. Fancy Sequence
+17.3%
+Hard
+
+288. Unique Word Abbreviation
+27.0%
+Med.
+
+2241. Design an ATM Machine
+41.9%
+Med.
+
+348. Design Tic-Tac-Toe
+58.5%
+Med.
+
+1261. Find Elements in a Contaminated Binary Tree
+84.0%
+Med.
+
+855. Exam Room
+42.7%
+Med.
+
+432. All O`one Data Structure
+44.2%
+Hard
+
+919. Complete Binary Tree Inserter
+64.5%
+Med.
+
+588. Design In-Memory File System
+48.1%
+Hard
+
+641. Design Circular Deque
+64.4%
+Med.
+
+1472. Design Browser History
+77.7%
+Med.
+
+705. Design HashSet
+66.9%
+Easy
+
+1845. Seat Reservation Manager
+66.3%
+Med.
+
+2069. Walking Robot Simulation II
+25.0%
+Med.
+
+707. Design Linked List
+28.9%
+Med.
+
+622. Design Circular Queue
+52.4%
+Med.
+
+384. Shuffle an Array
+58.9%
+Med.
+
+1476. Subrectangle Queries
+85.9%
+Med.
+
+3408. Design Task Manager
+34.0%
+Med.
+
+1166. Design File System
+64.0%
+Med.
+
+304. Range Sum Query 2D - Immutable
+56.3%
+Med.
+
+1348. Tweet Counts Per Frequency
+45.2%
+Med.
+
+1570. Dot Product of Two Sparse Vectors
+89.9%
+Med.
+
+716. Max Stack
+45.4%
+Hard
+
+2336. Smallest Number in Infinite Set
+70.4%
+Med.
+
+2353. Design a Food Rating System
+44.8%
+Med.
+
+631. Design Excel Sum Formula
+43.4%
+Hard
+
+745. Prefix and Suffix Search
+40.4%
+Hard
+
+352. Data Stream as Disjoint Intervals
+59.4%
+Hard
+
+355. Design Twitter
+42.3%
+Med.
+
+381. Insert Delete GetRandom O(1) - Duplicates allowed
+35.7%
+Hard
+
+2642. Design Graph With Shortest Path Calculator
+64.0%
+Hard
+
+2043. Simple Bank System
+61.3%
+Med.
+
+635. Design Log Storage System
+59.2%
+Med.
+
+1603. Design Parking System
+87.0%
+Easy
+
+1656. Design an Ordered Stream
+82.1%
+Easy
+
+1172. Dinner Plate Stacks
+32.7%
+Hard
+
+307. Range Sum Query - Mutable
+41.6%
+Med.
+
+2276. Count Integers in Intervals
+33.8%
+Hard
+
+2227. Encrypt and Decrypt Strings
+36.7%
+Hard
+
+449. Serialize and Deserialize BST
+58.5%
+Med.
+

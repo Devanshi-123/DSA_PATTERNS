@@ -1,0 +1,468 @@
+
+2402. Meeting Rooms III
+43.9%
+Hard
+
+253. Meeting Rooms II
+52.1%
+Med.
+
+295. Find Median from Data Stream
+53.1%
+Hard
+
+1825. Finding MK Average
+37.9%
+Hard
+
+215. Kth Largest Element in an Array
+67.8%
+Med.
+
+23. Merge k Sorted Lists
+56.3%
+Hard
+
+239. Sliding Window Maximum
+47.4%
+Hard
+
+347. Top K Frequent Elements
+64.3%
+Med.
+
+2812. Find the Safest Path in a Grid
+48.3%
+Med.
+
+1834. Single-Threaded CPU
+46.2%
+Med.
+
+1631. Path With Minimum Effort
+61.1%
+Med.
+
+767. Reorganize String
+56.0%
+Med.
+
+658. Find K Closest Elements
+48.5%
+Med.
+
+2762. Continuous Subarrays
+58.0%
+Med.
+
+621. Task Scheduler
+61.3%
+Med.
+
+2349. Design a Number Container System
+57.3%
+Med.
+
+1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit
+56.7%
+Med.
+
+787. Cheapest Flights Within K Stops
+40.2%
+Med.
+
+407. Trapping Rain Water II
+58.7%
+Hard
+
+1368. Minimum Cost to Make at Least One Valid Path in a Grid
+70.7%
+Hard
+
+218. The Skyline Problem
+43.8%
+Hard
+
+451. Sort Characters By Frequency
+73.9%
+Med.
+
+506. Relative Ranks
+73.1%
+Easy
+
+3318. Find X-Sum of All K-Long Subarrays I
+63.4%
+Easy
+
+778. Swim in Rising Water
+62.5%
+Hard
+
+2290. Minimum Obstacle Removal to Reach Corner
+70.0%
+Hard
+
+1642. Furthest Building You Can Reach
+50.3%
+Med.
+
+373. Find K Pairs with Smallest Sums
+40.6%
+Med.
+
+2034. Stock Price Fluctuation
+47.9%
+Med.
+
+759. Employee Free Time
+72.6%
+Hard
+
+703. Kth Largest Element in a Stream
+59.7%
+Easy
+
+857. Minimum Cost to Hire K Workers
+63.4%
+Hard
+
+912. Sort an Array
+56.8%
+Med.
+
+1851. Minimum Interval to Include Each Query
+52.0%
+Hard
+
+1514. Path with Maximum Probability
+65.3%
+Med.
+
+743. Network Delay Time
+56.9%
+Med.
+
+973. K Closest Points to Origin
+67.8%
+Med.
+
+378. Kth Smallest Element in a Sorted Matrix
+63.4%
+Med.
+
+1268. Search Suggestions System
+65.0%
+Med.
+
+862. Shortest Subarray with Sum at Least K
+32.2%
+Hard
+
+1424. Diagonal Traverse II
+57.9%
+Med.
+
+1057. Campus Bikes
+58.9%
+Med.
+
+3362. Zero Array Transformation III
+26.2%
+Med.
+
+1168. Optimize Water Distribution in a Village
+65.1%
+Hard
+
+480. Sliding Window Median
+38.6%
+Hard
+
+1488. Avoid Flood in The City
+27.3%
+Med.
+
+642. Design Search Autocomplete System
+49.3%
+Hard
+
+692. Top K Frequent Words
+59.1%
+Med.
+
+358. Rearrange String k Distance Apart
+39.3%
+Hard
+
+1776. Car Fleet II
+56.2%
+Hard
+
+1786. Number of Restricted Paths From First to Last Node
+39.9%
+Med.
+
+1388. Pizza With 3n Slices
+52.8%
+Hard
+
+1499. Max Value of Equation
+44.5%
+Hard
+
+1167. Minimum Cost to Connect Sticks
+71.0%
+Med.
+
+659. Split Array into Consecutive Subsequences
+51.5%
+Med.
+
+272. Closest Binary Search Tree Value II
+60.2%
+Hard
+
+2424. Longest Uploaded Prefix
+53.6%
+Med.
+
+1199. Minimum Time to Build Blocks
+46.2%
+Hard
+
+683. K Empty Slots
+37.2%
+Hard
+
+264. Ugly Number II
+49.2%
+Med.
+
+1738. Find Kth Largest XOR Coordinate Value
+62.7%
+Med.
+
+1753. Maximum Score From Removing Stones
+67.7%
+Med.
+
+855. Exam Room
+42.7%
+Med.
+
+1810. Minimum Path Cost in a Hidden Grid
+58.0%
+Med.
+
+505. The Maze II
+54.1%
+Med.
+
+1942. The Number of the Smallest Unoccupied Chair
+60.5%
+Med.
+
+632. Smallest Range Covering Elements from K Lists
+69.7%
+Hard
+
+2577. Minimum Time to Visit a Cell In a Grid
+56.9%
+Hard
+
+2054. Two Best Non-Overlapping Events
+61.0%
+Med.
+
+2558. Take Gifts From the Richest Pile
+75.7%
+Easy
+
+2542. Maximum Subsequence Score
+54.2%
+Med.
+
+1845. Seat Reservation Manager
+66.3%
+Med.
+
+502. IPO
+53.0%
+Hard
+
+2182. Construct String With Repeat Limit
+70.9%
+Med.
+
+1405. Longest Happy String
+65.4%
+Med.
+
+3408. Design Task Manager
+34.0%
+Med.
+
+1046. Last Stone Weight
+65.9%
+Easy
+
+2973. Find Number of Coins to Place in Tree Nodes
+36.0%
+Hard
+
+1094. Car Pooling
+56.0%
+Med.
+
+1696. Jump Game VI
+45.9%
+Med.
+
+1792. Maximum Average Pass Ratio
+71.6%
+Med.
+
+2342. Max Sum of a Pair With Equal Sum of Digits
+66.0%
+Med.
+
+1337. The K Weakest Rows in a Matrix
+73.9%
+Easy
+
+2503. Maximum Number of Points From Grid Queries
+59.6%
+Hard
+
+2551. Put Marbles in Bags
+72.5%
+Hard
+
+2593. Find Score of an Array After Marking All Elements
+64.7%
+Med.
+
+2699. Modify Graph Edge Weights
+56.1%
+Hard
+
+2336. Smallest Number in Infinite Set
+70.4%
+Med.
+
+2353. Design a Food Rating System
+44.8%
+Med.
+
+871. Minimum Number of Refueling Stops
+40.5%
+Hard
+
+2406. Divide Intervals Into Minimum Number of Groups
+63.7%
+Med.
+
+1464. Maximum Product of Two Elements in an Array
+83.2%
+Easy
+
+3341. Find Minimum Time to Reach Last Room I
+35.9%
+Med.
+
+2530. Maximal Score After Applying K Operations
+63.8%
+Med.
+
+2940. Find Building Where Alice and Bob Can Meet
+52.4%
+Hard
+
+675. Cut Off Trees for Golf Event
+35.2%
+Hard
+
+3507. Minimum Pair Removal to Sort Array I
+55.9%
+Easy
+
+3066. Minimum Operations to Exceed Threshold Value II
+45.7%
+Med.
+
+1425. Constrained Subsequence Sum
+56.4%
+Hard
+
+355. Design Twitter
+42.3%
+Med.
+
+420. Strong Password Checker
+14.5%
+Hard
+
+1353. Maximum Number of Events That Can Be Attended
+32.9%
+Med.
+
+1383. Maximum Performance of a Team
+47.5%
+Hard
+
+3286. Find a Safe Walk Through a Grid
+30.1%
+Med.
+
+2497. Maximum Star Sum of a Graph
+40.6%
+Med.
+
+2642. Design Graph With Shortest Path Calculator
+64.0%
+Hard
+
+2974. Minimum Number Game
+84.8%
+Easy
+
+1606. Find Servers That Handled Most Number of Requests
+43.8%
+Hard
+
+1172. Dinner Plate Stacks
+32.7%
+Hard
+
+786. K-th Smallest Prime Fraction
+68.5%
+Med.
+
+2335. Minimum Amount of Time to Fill Cups
+58.7%
+Easy
+
+2357. Make Array Zero by Subtracting Equal Amounts
+73.2%
+Easy
+
+882. Reachable Nodes In Subdivided Graph
+50.7%
+Hard
+
+3275. K-th Nearest Obstacle Queries
+48.0%
+Med.
+
+1882. Process Tasks Using Servers
+40.9%
+Med.
+
+3264. Final Array State After K Multiplication Operations I
+87.1%
+Easy
+
+3266. Final Array State After K Multiplication Operations II
+11.7%
+Hard

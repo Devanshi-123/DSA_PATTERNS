@@ -1,0 +1,1313 @@
+42. Trapping Rain Water
+64.7%
+Hard
+
+121. Best Time to Buy and Sell Stock
+55.0%
+Easy
+
+70. Climbing Stairs
+53.5%
+Easy
+
+5. Longest Palindromic Substring
+35.6%
+Med.
+
+53. Maximum Subarray
+51.9%
+Med.
+
+1526. Minimum Number of Increments on Subarrays to Form a Target Array
+72.2%
+Hard
+
+22. Generate Parentheses
+76.9%
+Med.
+
+410. Split Array Largest Sum
+57.7%
+Hard
+
+198. House Robber
+52.2%
+Med.
+
+55. Jump Game
+39.3%
+Med.
+
+118. Pascal's Triangle
+76.7%
+Easy
+
+85. Maximal Rectangle
+53.3%
+Hard
+
+45. Jump Game II
+41.3%
+Med.
+
+300. Longest Increasing Subsequence
+57.5%
+Med.
+
+62. Unique Paths
+65.6%
+Med.
+
+10. Regular Expression Matching
+29.1%
+Hard
+
+322. Coin Change
+46.2%
+Med.
+
+975. Odd Even Jump
+40.7%
+Hard
+
+354. Russian Doll Envelopes
+37.3%
+Hard
+
+416. Partition Equal Subset Sum
+48.2%
+Med.
+
+124. Binary Tree Maximum Path Sum
+41.1%
+Hard
+
+131. Palindrome Partitioning
+71.7%
+Med.
+
+221. Maximal Square
+48.5%
+Med.
+
+139. Word Break
+48.1%
+Med.
+
+122. Best Time to Buy and Sell Stock II
+69.2%
+Med.
+
+542. 01 Matrix
+51.1%
+Med.
+
+152. Maximum Product Subarray
+34.7%
+Med.
+
+312. Burst Balloons
+60.9%
+Hard
+
+368. Largest Divisible Subset
+48.7%
+Med.
+
+72. Edit Distance
+58.5%
+Med.
+
+44. Wildcard Matching
+29.6%
+Hard
+
+329. Longest Increasing Path in a Matrix
+55.1%
+Hard
+
+392. Is Subsequence
+48.3%
+Easy
+
+907. Sum of Subarray Minimums
+37.5%
+Med.
+
+509. Fibonacci Number
+72.7%
+Easy
+
+32. Longest Valid Parentheses
+36.0%
+Hard
+
+64. Minimum Path Sum
+66.2%
+Med.
+
+494. Target Sum
+50.5%
+Med.
+
+818. Race Car
+44.0%
+Hard
+
+1143. Longest Common Subsequence
+58.1%
+Med.
+
+279. Perfect Squares
+55.6%
+Med.
+
+1277. Count Square Submatrices with All Ones
+78.6%
+Med.
+
+140. Word Break II
+53.3%
+Hard
+
+787. Cheapest Flights Within K Stops
+40.2%
+Med.
+
+1218. Longest Arithmetic Subsequence of Given Difference
+54.5%
+Med.
+
+2407. Longest Increasing Subsequence II
+25.4%
+Hard
+
+486. Predict the Winner
+55.6%
+Med.
+
+790. Domino and Tromino Tiling
+48.4%
+Med.
+
+834. Sum of Distances in Tree
+65.3%
+Hard
+
+1937. Maximum Number of Points with Cost
+42.2%
+Med.
+
+2035. Partition Array Into Two Arrays to Minimize Sum Difference
+21.5%
+Hard
+
+418. Sentence Screen Fitting
+36.3%
+Med.
+
+1105. Filling Bookcase Shelves
+68.7%
+Med.
+
+309. Best Time to Buy and Sell Stock with Cooldown
+60.1%
+Med.
+
+552. Student Attendance Record II
+55.7%
+Hard
+
+746. Min Cost Climbing Stairs
+67.0%
+Easy
+
+63. Unique Paths II
+43.0%
+Med.
+
+213. House Robber II
+43.4%
+Med.
+
+337. House Robber III
+54.8%
+Med.
+
+377. Combination Sum IV
+54.6%
+Med.
+
+808. Soup Servings
+53.3%
+Med.
+
+91. Decode Ways
+36.3%
+Med.
+
+465. Optimal Account Balancing
+49.8%
+Hard
+
+518. Coin Change II
+62.8%
+Med.
+
+689. Maximum Sum of 3 Non-Overlapping Subarrays
+59.4%
+Hard
+
+1494. Parallel Courses II
+29.5%
+Hard
+
+351. Android Unlock Patterns
+53.3%
+Med.
+
+357. Count Numbers with Unique Digits
+54.2%
+Med.
+
+514. Freedom Trail
+58.8%
+Hard
+
+647. Palindromic Substrings
+71.5%
+Med.
+
+2713. Maximum Strictly Increasing Cells in a Matrix
+30.5%
+Hard
+
+847. Shortest Path Visiting All Nodes
+65.4%
+Hard
+
+931. Minimum Falling Path Sum
+61.7%
+Med.
+
+1463. Cherry Pickup II
+71.9%
+Hard
+
+1547. Minimum Cost to Cut a Stick
+61.8%
+Hard
+
+2184. Number of Ways to Build Sturdy Brick Wall
+49.4%
+Med.
+
+435. Non-overlapping Intervals
+55.2%
+Med.
+
+2088. Count Fertile Pyramids in a Land
+65.2%
+Hard
+
+233. Number of Digit One
+35.8%
+Hard
+
+792. Number of Matching Subsequences
+50.7%
+Med.
+
+1024. Video Stitching
+51.9%
+Med.
+
+1406. Stone Game III
+63.2%
+Hard
+
+3351. Sum of Good Subsequences
+29.5%
+Hard
+
+1525. Number of Good Ways to Split a String
+68.3%
+Med.
+
+119. Pascal's Triangle II
+65.7%
+Easy
+
+123. Best Time to Buy and Sell Stock III
+50.7%
+Hard
+
+241. Different Ways to Add Parentheses
+72.2%
+Med.
+
+837. New 21 Game
+44.8%
+Med.
+
+887. Super Egg Drop
+28.6%
+Hard
+
+115. Distinct Subsequences
+49.8%
+Hard
+
+2050. Parallel Courses III
+66.7%
+Hard
+
+2188. Minimum Time to Finish the Race
+41.9%
+Hard
+
+583. Delete Operation for Two Strings
+63.4%
+Med.
+
+845. Longest Mountain in Array
+41.0%
+Med.
+
+894. All Possible Full Binary Trees
+82.7%
+Med.
+
+1027. Longest Arithmetic Subsequence
+49.4%
+Med.
+
+1483. Kth Ancestor of a Tree Node
+35.4%
+Hard
+
+3196. Maximize Total Cost of Alternating Subarrays
+28.5%
+Med.
+
+1987. Number of Unique Good Subsequences
+52.1%
+Hard
+
+174. Dungeon Game
+39.3%
+Hard
+
+2435. Paths in Matrix Whose Sum Is Divisible by K
+43.9%
+Hard
+
+788. Rotated Digits
+56.4%
+Med.
+
+935. Knight Dialer
+61.0%
+Med.
+
+983. Minimum Cost For Tickets
+67.4%
+Med.
+
+1000. Minimum Cost to Merge Stones
+44.2%
+Hard
+
+3287. Find the Maximum Sequence Value of Array
+18.4%
+Hard
+
+1553. Minimum Number of Days to Eat N Oranges
+35.6%
+Hard
+
+1569. Number of Ways to Reorder Array to Get Same BST
+53.5%
+Hard
+
+1871. Jump Game VII
+25.4%
+Med.
+
+97. Interleaving String
+42.0%
+Med.
+
+2172. Maximum AND Sum of Array
+49.6%
+Hard
+
+276. Paint Fence
+47.6%
+Med.
+
+2313. Minimum Flips in Binary Tree to Get Result
+56.7%
+Hard
+
+397. Integer Replacement
+36.4%
+Med.
+
+526. Beautiful Arrangement
+64.5%
+Med.
+
+2556. Disconnect Path in a Binary Matrix by at Most One Flip
+27.2%
+Med.
+
+2510. Check if There is a Path With Equal Number of 0's And 1's
+51.4%
+Med.
+
+651. 4 Keys Keyboard
+55.9%
+Med.
+
+727. Minimum Window Subsequence
+43.6%
+Hard
+
+799. Champagne Tower
+58.2%
+Med.
+
+879. Profitable Schemes
+48.0%
+Hard
+
+913. Cat and Mouse
+34.0%
+Hard
+
+926. Flip String to Monotone Increasing
+61.6%
+Med.
+
+1014. Best Sightseeing Pair
+62.6%
+Med.
+
+1147. Longest Chunked Palindrome Decomposition
+58.8%
+Hard
+
+3041. Maximize Consecutive Elements in an Array After Modification
+32.1%
+Hard
+
+2218. Maximum Value of K Coins From Piles
+60.4%
+Hard
+
+1269. Number of Ways to Stay in the Same Place After Some Steps
+50.1%
+Hard
+
+3201. Find the Maximum Length of Valid Subsequence I
+37.6%
+Med.
+
+3202. Find the Maximum Length of Valid Subsequence II
+39.4%
+Med.
+
+1388. Pizza With 3n Slices
+52.8%
+Hard
+
+3472. Longest Palindromic Subsequence After at Most K Operations
+36.0%
+Med.
+
+1770. Maximum Score from Performing Multiplication Operations
+42.0%
+Hard
+
+1774. Closest Dessert Cost
+47.6%
+Med.
+
+1786. Number of Restricted Paths From First to Last Node
+39.9%
+Med.
+
+1857. Largest Color Value in a Directed Graph
+49.5%
+Hard
+
+1888. Minimum Number of Flips to Make the Binary String Alternating
+40.4%
+Med.
+
+1931. Painting a Grid With Three Different Colors
+56.9%
+Hard
+
+96. Unique Binary Search Trees
+62.3%
+Med.
+
+188. Best Time to Buy and Sell Stock IV
+46.5%
+Hard
+
+2140. Solving Questions With Brainpower
+60.3%
+Med.
+
+338. Counting Bits
+79.6%
+Easy
+
+361. Bomb Enemy
+52.0%
+Med.
+
+375. Guess Number Higher or Lower II
+50.9%
+Med.
+
+471. Encode String with Shortest Length
+50.5%
+Hard
+
+474. Ones and Zeroes
+48.7%
+Med.
+
+487. Max Consecutive Ones II
+51.5%
+Med.
+
+638. Shopping Offers
+51.8%
+Med.
+
+678. Valid Parenthesis String
+38.8%
+Med.
+
+813. Largest Sum of Averages
+54.0%
+Med.
+
+838. Push Dominoes
+57.4%
+Med.
+
+2851. String Transformation
+24.9%
+Hard
+
+960. Delete Columns to Make Sorted III
+58.5%
+Hard
+
+1066. Campus Bikes II
+55.3%
+Med.
+
+3007. Maximum Number That Sum of the Prices Is Less Than or Equal to K
+36.6%
+Med.
+
+1289. Minimum Falling Path Sum II
+63.9%
+Hard
+
+1235. Maximum Profit in Job Scheduling
+54.4%
+Hard
+
+1320. Minimum Distance to Type a Word Using Two Fingers
+59.0%
+Hard
+
+1387. Sort Integers by The Power Value
+70.7%
+Med.
+
+1444. Number of Ways of Cutting a Pizza
+61.6%
+Hard
+
+1504. Count Submatrices With All Ones
+57.2%
+Med.
+
+1728. Cat and Mouse II
+39.5%
+Hard
+
+1655. Distribute Repeating Integers
+39.6%
+Hard
+
+1866. Number of Ways to Rearrange Sticks With K Sticks Visible
+57.6%
+Hard
+
+1900. The Earliest and Latest Rounds Where Players Compete
+48.0%
+Hard
+
+120. Triangle
+58.9%
+Med.
+
+2167. Minimum Time to Remove All Cars Containing Illegal Goods
+41.1%
+Hard
+
+2209. Minimum White Tiles After Covering With Carpets
+36.9%
+Hard
+
+264. Ugly Number II
+49.2%
+Med.
+
+294. Flip Game II
+52.2%
+Med.
+
+2267. Check if There Is a Valid Parentheses String Path
+39.2%
+Hard
+
+313. Super Ugly Number
+45.4%
+Med.
+
+2311. Longest Binary Subsequence Less Than or Equal to K
+38.1%
+Med.
+
+2478. Number of Beautiful Partitions
+32.0%
+Hard
+
+562. Longest Line of Consecutive One in Matrix
+50.5%
+Med.
+
+568. Maximum Vacation Days
+46.3%
+Hard
+
+656. Coin Path
+32.4%
+Hard
+
+968. Binary Tree Cameras
+47.1%
+Hard
+
+1012. Numbers With Repeated Digits
+43.2%
+Hard
+
+2919. Minimum Increment Operations to Make Array Beautiful
+33.7%
+Med.
+
+1182. Shortest Distance to Target Color
+55.4%
+Med.
+
+2925. Maximum Score After Applying Operations on a Tree
+45.8%
+Med.
+
+3117. Minimum Sum of Values by Dividing Array
+26.9%
+Hard
+
+2304. Minimum Path Cost in a Grid
+67.1%
+Med.
+
+3250. Find the Count of Monotonic Pairs I
+45.7%
+Hard
+
+1449. Form Largest Integer With Digits That Add up to Target
+48.6%
+Hard
+
+1477. Find Two Non-overlapping Sub-arrays Each With Target Sum
+36.5%
+Med.
+
+1548. The Most Similar Path in a Graph
+59.3%
+Hard
+
+1594. Maximum Non Negative Product in a Matrix
+34.5%
+Med.
+
+1595. Minimum Cost to Connect Two Groups of Points
+48.2%
+Hard
+
+1639. Number of Ways to Form a Target String Given a Dictionary
+57.2%
+Hard
+
+1692. Count Ways to Distribute Candies
+63.1%
+Hard
+
+1815. Maximum Number of Groups Getting Fresh Donuts
+40.2%
+Hard
+
+1896. Minimum Cost to Change the Final Value of Expression
+50.7%
+Hard
+
+1883. Minimum Skips to Arrive at Meeting On Time
+38.1%
+Hard
+
+403. Frog Jump
+46.5%
+Hard
+
+1137. N-th Tribonacci Number
+63.6%
+Easy
+
+1395. Count Number of Teams
+70.1%
+Med.
+
+1653. Minimum Deletions to Make String Balanced
+65.6%
+Med.
+
+87. Scramble String
+42.0%
+Hard
+
+95. Unique Binary Search Trees II
+60.1%
+Med.
+
+2054. Two Best Non-Overlapping Events
+61.0%
+Med.
+
+446. Arithmetic Slices II - Subsequence
+54.5%
+Hard
+
+516. Longest Palindromic Subsequence
+63.9%
+Med.
+
+650. 2 Keys Keyboard
+59.0%
+Med.
+
+664. Strange Printer
+60.8%
+Hard
+
+741. Cherry Pickup
+37.7%
+Hard
+
+1043. Partition Array for Maximum Sum
+76.9%
+Med.
+
+1048. Longest String Chain
+61.8%
+Med.
+
+1092. Shortest Common Supersequence
+61.2%
+Hard
+
+1749. Maximum Absolute Sum of Any Subarray
+71.5%
+Med.
+
+1976. Number of Ways to Arrive at Destination
+37.8%
+Med.
+
+343. Integer Break
+61.0%
+Med.
+
+918. Maximum Sum Circular Subarray
+47.3%
+Med.
+
+1155. Number of Dice Rolls With Target Sum
+61.5%
+Med.
+
+413. Arithmetic Slices
+64.8%
+Med.
+
+2572. Count the Number of Square-Free Subsets
+24.9%
+Med.
+
+2645. Minimum Additions to Make Valid String
+50.1%
+Med.
+
+698. Partition to K Equal Sum Subsets
+38.1%
+Med.
+
+718. Maximum Length of Repeated Subarray
+51.0%
+Med.
+
+877. Stone Game
+71.5%
+Med.
+
+1025. Divisor Game
+70.2%
+Easy
+
+2945. Find Maximum Non-decreasing Array Length
+16.9%
+Hard
+
+3149. Find the Minimum Cost Array Permutation
+23.4%
+Hard
+
+1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance
+69.7%
+Med.
+
+1493. Longest Subarray of 1's After Deleting One Element
+69.1%
+Med.
+
+1524. Number of Sub-arrays With Odd Sum
+56.1%
+Med.
+
+2338. Count the Number of Ideal Arrays
+57.4%
+Hard
+
+2369. Check if There is a Valid Partition For The Array
+51.9%
+Med.
+
+458. Poor Pigs
+59.3%
+Hard
+
+629. K Inverse Pairs Array
+49.1%
+Hard
+
+740. Delete and Earn
+56.7%
+Med.
+
+2742. Painting the Walls
+48.3%
+Hard
+
+873. Length of Longest Fibonacci Subsequence
+57.6%
+Med.
+
+920. Number of Music Playlists
+60.0%
+Hard
+
+940. Distinct Subsequences II
+43.5%
+Hard
+
+943. Find the Shortest Superstring
+44.2%
+Hard
+
+2973. Find Number of Coins to Place in Tree Nodes
+36.0%
+Hard
+
+2999. Count the Number of Powerful Integers
+46.6%
+Hard
+
+1140. Stone Game II
+73.0%
+Med.
+
+1220. Count Vowels Permutation
+61.5%
+Hard
+
+2305. Fair Distribution of Cookies
+69.3%
+Med.
+
+3410. Maximize Subarray Sum After Removing All Occurrences of One Element
+19.1%
+Hard
+
+1696. Jump Game VI
+45.9%
+Med.
+
+2463. Minimum Total Distance Traveled
+59.0%
+Hard
+
+673. Number of Longest Increasing Subsequence
+49.6%
+Med.
+
+2707. Extra Characters in a String
+57.0%
+Med.
+
+773. Sliding Puzzle
+73.1%
+Hard
+
+801. Minimum Swaps To Make Sequences Increasing
+40.7%
+Hard
+
+871. Minimum Number of Refueling Stops
+40.5%
+Hard
+
+898. Bitwise ORs of Subarrays
+40.5%
+Med.
+
+1125. Smallest Sufficient Team
+55.3%
+Hard
+
+1326. Minimum Number of Taps to Open to Water a Garden
+50.7%
+Hard
+
+1420. Build Array Where You Can Find The Maximum Exactly K Comparisons
+66.9%
+Hard
+
+1671. Minimum Number of Removals to Make Mountain Array
+55.0%
+Hard
+
+1824. Minimum Sideway Jumps
+50.6%
+Med.
+
+132. Palindrome Partitioning II
+35.1%
+Hard
+
+2100. Find Good Days to Rob the Bank
+50.1%
+Med.
+
+2522. Partition String Into Substrings With Values at Most K
+46.4%
+Med.
+
+2484. Count Palindromic Subsequences
+39.1%
+Hard
+
+2501. Longest Square Streak in an Array
+53.1%
+Med.
+
+546. Remove Boxes
+48.2%
+Hard
+
+646. Maximum Length of Pair Chain
+60.7%
+Med.
+
+2597. The Number of Beautiful Subsets
+50.7%
+Med.
+
+2573. Find the String with LCP
+31.5%
+Hard
+
+688. Knight Probability in Chessboard
+56.5%
+Med.
+
+691. Stickers to Spell Word
+50.0%
+Hard
+
+2684. Maximum Number of Moves in a Grid
+58.9%
+Med.
+
+2770. Maximum Number of Jumps to Reach the Last Index
+31.1%
+Med.
+
+2896. Apply Operations to Make Two Strings Equal
+27.1%
+Med.
+
+1062. Longest Repeating Substring
+62.9%
+Med.
+
+1035. Uncrossed Lines
+64.1%
+Med.
+
+1039. Minimum Score Triangulation of Polygon
+60.0%
+Med.
+
+1049. Last Stone Weight II
+57.3%
+Med.
+
+1130. Minimum Cost Tree From Leaf Values
+67.6%
+Med.
+
+3068. Find the Maximum Sum of Node Values
+65.2%
+Hard
+
+1425. Constrained Subsequence Sum
+56.4%
+Hard
+
+1186. Maximum Subarray Sum with One Deletion
+45.0%
+Med.
+
+1691. Maximum Height by Stacking Cuboids
+59.8%
+Hard
+
+3165. Maximum Sum of Subsequence With Non-adjacent Elements
+15.9%
+Hard
+
+1255. Maximum Score Words Formed by Letters
+81.6%
+Hard
+
+2263. Make Array Non-decreasing or Non-increasing
+65.3%
+Hard
+
+1312. Minimum Insertion Steps to Make a String Palindrome
+72.1%
+Hard
+
+1373. Maximum Sum BST in Binary Tree
+43.8%
+Hard
+
+3260. Find the Largest Palindrome Divisible by K
+15.2%
+Hard
+
+3337. Total Characters in String After Transformations II
+31.5%
+Hard
+
+3434. Maximum Frequency After Subarray Operation
+23.5%
+Med.
+
+1884. Egg Drop With 2 Eggs and N Floors
+73.6%
+Med.
+
+1994. The Number of Good Subsets
+35.7%
+Hard
+
+256. Paint House
+63.6%
+Med.
+
+2262. Total Appeal of A String
+55.7%
+Hard
+
+376. Wiggle Subsequence
+48.8%
+Med.
+
+2370. Longest Ideal Subsequence
+46.9%
+Med.
+
+2380. Time Needed to Rearrange a Binary String
+51.5%
+Med.
+
+2361. Minimum Costs Using the Train Line
+77.5%
+Hard
+
+2466. Count Ways To Build Good Strings
+59.2%
+Med.
+
+2581. Count Number of Possible Root Nodes
+46.1%
+Hard
+
+2571. Minimum Operations to Reduce an Integer to 0
+56.9%
+Med.
+
+712. Minimum ASCII Delete Sum for Two Strings
+65.6%
+Med.
+
+2771. Longest Non-decreasing Subarray From Two Arrays
+29.7%
+Med.
+
+2787. Ways to Express an Integer as Sum of Powers
+33.5%
+Med.
+
+823. Binary Trees With Factors
+52.9%
+Med.
+
+2811. Check if it is Possible to Split Array
+33.8%
+Med.
+
+2858. Minimum Edge Reversals So Every Node Is Reachable
+55.4%
+Hard
+
+2876. Count Visited Nodes in a Directed Graph
+28.7%
+Hard
+
+3098. Find the Sum of Subsequence Powers
+23.2%
+Hard
+
+1187. Make Array Strictly Increasing
+57.8%
+Hard
+
+3082. Find the Sum of the Power of All Subsequences
+36.3%
+Hard
+
+1227. Airplane Seat Assignment Probability
+66.6%
+Med.
+
+3186. Maximum Total Damage With Spell Casting
+27.5%
+Med.
+
+3229. Minimum Operations to Make Array Equal to Target
+38.6%
+Hard
+
+3193. Count the Number of Inversions
+27.6%
+Hard
+
+3316. Find Maximum Removals From Source String
+37.7%
+Med.
+
+3218. Minimum Cost for Cutting Cake I
+57.5%
+Med.
+
+1335. Minimum Difficulty of a Job Schedule
+59.6%
+Hard
+
+1359. Count All Valid Pickup and Delivery Options
+64.9%
+Hard
+
+1340. Jump Game V
+63.9%
+Hard
+
+3277. Maximum XOR Score Subarray Queries
+41.8%
+Hard
+
+1397. Find All Good Strings
+43.5%
+Hard
+
+3389. Minimum Operations to Make Character Frequencies Equal
+24.5%
+Hard
+
+1531. String Compression II
+52.0%
+Hard
+
+3409. Longest Subsequence With Decreasing Adjacent Difference
+14.2%
+Med.
+
+3459. Length of Longest V-Shaped Diagonal Segment
+33.4%
+Hard
+
+1578. Minimum Time to Make Rope Colorful
+63.5%
+Med.
+
+3489. Zero Array Transformation IV
+29.1%
+Med.
+
+1668. Maximum Repeating Substring
+39.4%
+Easy
+
+1751. Maximum Number of Events That Can Be Attended II
+60.8%
+Hard
+
+1771. Maximize Palindrome Length From Subsequences
+37.1%
+Hard
+
+1911. Maximum Alternating Subsequence Sum
