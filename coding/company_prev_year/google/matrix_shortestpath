@@ -1,0 +1,715 @@
+200. Number of Islands
+62.0%
+Med.
+
+48. Rotate Image
+77.6%
+Med.
+
+54. Spiral Matrix
+53.5%
+Med.
+
+85. Maximal Rectangle
+53.3%
+Hard
+
+37. Sudoku Solver
+63.7%
+Hard
+
+994. Rotting Oranges
+56.3%
+Med.
+
+417. Pacific Atlantic Water Flow
+57.2%
+Med.
+
+73. Set Matrix Zeroes
+59.4%
+Med.
+
+221. Maximal Square
+48.5%
+Med.
+
+79. Word Search
+45.0%
+Med.
+
+542. 01 Matrix
+51.1%
+Med.
+
+74. Search a 2D Matrix
+52.0%
+Med.
+
+2812. Find the Safest Path in a Grid
+48.3%
+Med.
+
+1293. Shortest Path in a Grid with Obstacles Elimination
+45.5%
+Hard
+
+36. Valid Sudoku
+62.0%
+Med.
+
+329. Longest Increasing Path in a Matrix
+55.1%
+Hard
+
+1254. Number of Closed Islands
+66.7%
+Med.
+
+64. Minimum Path Sum
+66.2%
+Med.
+
+1631. Path With Minimum Effort
+61.1%
+Med.
+
+399. Evaluate Division
+62.9%
+Med.
+
+959. Regions Cut By Slashes
+77.6%
+Med.
+
+130. Surrounded Regions
+42.5%
+Med.
+
+240. Search a 2D Matrix II
+54.9%
+Med.
+
+832. Flipping an Image
+82.9%
+Easy
+
+1277. Count Square Submatrices with All Ones
+78.6%
+Med.
+
+787. Cheapest Flights Within K Stops
+40.2%
+Med.
+
+2018. Check if Word Can Be Placed In Crossword
+50.0%
+Med.
+
+1672. Richest Customer Wealth
+88.5%
+Easy
+
+407. Trapping Rain Water II
+58.7%
+Hard
+
+1368. Minimum Cost to Make at Least One Valid Path in a Grid
+70.7%
+Hard
+
+463. Island Perimeter
+73.4%
+Easy
+
+1937. Maximum Number of Points with Cost
+42.2%
+Med.
+
+212. Word Search II
+37.2%
+Hard
+
+778. Swim in Rising Water
+62.5%
+Hard
+
+2290. Minimum Obstacle Removal to Reach Corner
+70.0%
+Hard
+
+63. Unique Paths II
+43.0%
+Med.
+
+2203. Minimum Weighted Subgraph With the Required Paths
+38.1%
+Hard
+
+827. Making A Large Island
+54.5%
+Hard
+
+934. Shortest Bridge
+58.5%
+Med.
+
+1091. Shortest Path in Binary Matrix
+49.5%
+Med.
+
+733. Flood Fill
+66.1%
+Easy
+
+289. Game of Life
+71.2%
+Med.
+
+1463. Cherry Pickup II
+71.9%
+Hard
+
+1020. Number of Enclaves
+70.2%
+Med.
+
+2713. Maximum Strictly Increasing Cells in a Matrix
+30.5%
+Hard
+
+1514. Path with Maximum Probability
+65.3%
+Med.
+
+1219. Path with Maximum Gold
+68.1%
+Med.
+
+317. Shortest Distance from All Buildings
+44.2%
+Hard
+
+931. Minimum Falling Path Sum
+61.7%
+Med.
+
+867. Transpose Matrix
+74.0%
+Easy
+
+2088. Count Fertile Pyramids in a Land
+65.2%
+Hard
+
+695. Max Area of Island
+73.0%
+Med.
+
+743. Network Delay Time
+56.9%
+Med.
+
+286. Walls and Gates
+62.8%
+Med.
+
+1267. Count Servers that Communicate
+73.5%
+Med.
+
+490. The Maze
+59.3%
+Med.
+
+2965. Find Missing and Repeated Values
+83.7%
+Easy
+
+1727. Largest Submatrix With Rearrangements
+75.2%
+Med.
+
+378. Kth Smallest Element in a Sorted Matrix
+63.4%
+Med.
+
+864. Shortest Path to Get All Keys
+53.6%
+Hard
+
+2373. Largest Local Values in a Matrix
+87.8%
+Easy
+
+909. Snakes and Ladders
+44.1%
+Med.
+
+2022. Convert 1D Array Into 2D Array
+71.8%
+Easy
+
+308. Range Sum Query 2D - Mutable
+44.8%
+Med.
+
+2392. Build a Matrix With Conditions
+79.2%
+Hard
+
+498. Diagonal Traverse
+62.9%
+Med.
+
+1582. Special Positions in a Binary Matrix
+68.7%
+Easy
+
+174. Dungeon Game
+39.3%
+Hard
+
+1605. Find Valid Matrix Given Row and Column Sums
+82.8%
+Med.
+
+1314. Matrix Block Sum
+75.8%
+Med.
+
+1632. Rank Transform of a Matrix
+41.3%
+Hard
+
+1765. Map of Highest Peak
+75.0%
+Med.
+
+2435. Paths in Matrix Whose Sum Is Divisible by K
+43.9%
+Hard
+
+2556. Disconnect Path in a Binary Matrix by at Most One Flip
+27.2%
+Med.
+
+2510. Check if There is a Path With Equal Number of 0's And 1's
+51.4%
+Med.
+
+3044. Most Frequent Prime
+44.8%
+Med.
+
+766. Toeplitz Matrix
+69.4%
+Easy
+
+1706. Where Will the Ball Fall
+72.0%
+Med.
+
+302. Smallest Rectangle Enclosing Black Pixels
+60.5%
+Hard
+
+835. Image Overlap
+63.7%
+Med.
+
+840. Magic Squares In Grid
+51.5%
+Med.
+
+1786. Number of Restricted Paths From First to Last Node
+39.9%
+Med.
+
+1444. Number of Ways of Cutting a Pizza
+61.6%
+Hard
+
+1504. Count Submatrices With All Ones
+57.2%
+Med.
+
+1728. Cat and Mouse II
+39.5%
+Hard
+
+1289. Minimum Falling Path Sum II
+63.9%
+Hard
+
+803. Bricks Falling When Hit
+35.5%
+Hard
+
+361. Bomb Enemy
+52.0%
+Med.
+
+363. Max Sum of Rectangle No Larger Than K
+44.6%
+Hard
+
+1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold
+53.4%
+Med.
+
+531. Lonely Pixel I
+62.5%
+Med.
+
+533. Lonely Pixel II
+48.7%
+Med.
+
+562. Longest Line of Consecutive One in Matrix
+50.5%
+Med.
+
+568. Maximum Vacation Days
+46.3%
+Hard
+
+2536. Increment Submatrices by One
+51.4%
+Med.
+
+2923. Find Champion I
+72.2%
+Easy
+
+1591. Strange Printer II
+59.6%
+Hard
+
+1594. Maximum Non Negative Product in a Matrix
+34.5%
+Med.
+
+1595. Minimum Cost to Connect Two Groups of Points
+48.2%
+Hard
+
+2128. Remove All Ones With Row and Column Flips
+76.2%
+Med.
+
+3529. Count Cells in Overlapping Horizontal and Vertical Substrings
+19.1%
+Med.
+
+2174. Remove All Ones With Row and Column Flips II
+66.8%
+Med.
+
+782. Transform to Chessboard
+50.5%
+Hard
+
+2267. Check if There Is a Valid Parentheses String Path
+39.2%
+Hard
+
+1738. Find Kth Largest XOR Coordinate Value
+62.7%
+Med.
+
+348. Design Tic-Tac-Toe
+58.5%
+Med.
+
+2304. Minimum Path Cost in a Grid
+67.1%
+Med.
+
+419. Battleships in a Board
+76.4%
+Med.
+
+422. Valid Word Square
+41.9%
+Easy
+
+1810. Minimum Path Cost in a Hidden Grid
+58.0%
+Med.
+
+2371. Minimize Maximum Value in a Grid
+70.6%
+Hard
+
+505. The Maze II
+54.1%
+Med.
+
+59. Spiral Matrix II
+73.2%
+Med.
+
+2577. Minimum Time to Visit a Cell In a Grid
+56.9%
+Hard
+
+885. Spiral Matrix III
+84.5%
+Med.
+
+1572. Matrix Diagonal Sum
+83.6%
+Easy
+
+741. Cherry Pickup
+37.7%
+Hard
+
+861. Score After Flipping Matrix
+80.2%
+Med.
+
+1820. Maximum Number of Accepted Invitations
+51.7%
+Med.
+
+980. Unique Paths III
+82.3%
+Hard
+
+1976. Number of Ways to Arrive at Destination
+37.8%
+Med.
+
+1970. Last Day Where You Can Still Cross
+62.2%
+Hard
+
+2661. First Completely Painted Row or Column
+64.0%
+Med.
+
+427. Construct Quad Tree
+76.9%
+Med.
+
+3240. Minimum Number of Flips to Make Binary Grid Palindromic II
+24.2%
+Med.
+
+2017. Grid Game
+61.0%
+Med.
+
+1074. Number of Submatrices That Sum to Target
+74.4%
+Hard
+
+1072. Flip Columns For Maximum Number of Equal Rows
+78.5%
+Med.
+
+3419. Minimize the Maximum Edge Weight of Graph
+42.3%
+Med.
+
+1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance
+69.7%
+Med.
+
+529. Minesweeper
+67.9%
+Med.
+
+1476. Subrectangle Queries
+85.9%
+Med.
+
+304. Range Sum Query 2D - Immutable
+56.3%
+Med.
+
+2352. Equal Row and Column Pairs
+70.4%
+Med.
+
+1337. The K Weakest Rows in a Matrix
+73.9%
+Easy
+
+1901. Find a Peak Element II
+53.0%
+Med.
+
+2503. Maximum Number of Points From Grid Queries
+59.6%
+Hard
+
+1975. Maximum Matrix Sum
+65.9%
+Med.
+
+2045. Second Minimum Time to Reach Destination
+62.6%
+Hard
+
+1568. Minimum Number of Days to Disconnect Island
+59.1%
+Hard
+
+2658. Maximum Number of Fish in a Grid
+70.3%
+Med.
+
+2699. Modify Graph Edge Weights
+56.1%
+Hard
+
+773. Sliding Puzzle
+73.1%
+Hard
+
+1275. Find Winner on a Tic Tac Toe Game
+54.1%
+Easy
+
+1905. Count Sub Islands
+72.8%
+Med.
+
+1926. Nearest Exit from Entrance in Maze
+47.4%
+Med.
+
+3341. Find Minimum Time to Reach Last Room I
+35.9%
+Med.
+
+1034. Coloring A Border
+49.6%
+Med.
+
+2033. Minimum Operations to Make a Uni-Value Grid
+67.5%
+Med.
+
+631. Design Excel Sum Formula
+43.4%
+Hard
+
+2573. Find the String with LCP
+31.5%
+Hard
+
+675. Cut Off Trees for Golf Event
+35.2%
+Hard
+
+2976. Minimum Cost to Convert String I
+57.7%
+Med.
+
+2684. Maximum Number of Moves in a Grid
+58.9%
+Med.
+
+2257. Count Unguarded Cells in the Grid
+65.8%
+Med.
+
+296. Best Meeting Point
+61.2%
+Hard
+
+2258. Escape the Spreading Fire
+36.1%
+Hard
+
+311. Sparse Matrix Multiplication
+68.9%
+Med.
+
+807. Max Increase to Keep City Skyline
+86.2%
+Med.
+
+2326. Spiral Matrix IV
+82.2%
+Med.
+
+1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix
+71.9%
+Hard
+
+1861. Rotating the Box
+79.0%
+Med.
+
+1351. Count Negative Numbers in a Sorted Matrix
+77.6%
+Easy
+
+1886. Determine Whether Matrix Can Be Obtained By Rotation
+57.9%
+Easy
+
+3286. Find a Safe Walk Through a Grid
+30.1%
+Med.
+
+999. Available Captures for Rook
+70.2%
+Easy
+
+1730. Shortest Path to Get Food
+56.6%
+Med.
+
+2596. Check Knight Tour Configuration
+57.4%
+Med.
+
+2642. Design Graph With Shortest Path Calculator
+64.0%
+Hard
+
+1559. Detect Cycles in 2D Grid
+49.9%
+Med.
+
+661. Image Smoother
+68.2%
+Easy
+
+3459. Length of Longest V-Shaped Diagonal Segment
+33.4%
+Hard
+
+2614. Prime In Diagonal
+36.0%
+Easy
+
+2643. Row With Maximum Ones
+74.7%
+Easy
+
+749. Contain Virus
+52.3%
+Hard
+
+2319. Check if Matrix Is X-Matrix
+65.4%
+Easy
+
+882. Reachable Nodes In Subdivided Graph
+50.7%
+Hard
+
+883. Projection Area of 3D Shapes
+73.9%
+Easy
+
+892. Surface Area of 3D Shapes
+67.8%
+Easy

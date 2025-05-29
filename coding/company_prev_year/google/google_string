@@ -1,0 +1,1799 @@
+1768. Merge Strings Alternately
+82.2%
+Easy
+
+3. Longest Substring Without Repeating Characters
+36.7%
+Med.
+
+14. Longest Common Prefix
+45.2%
+Easy
+
+5. Longest Palindromic Substring
+35.6%
+Med.
+
+20. Valid Parentheses
+42.1%
+Easy
+
+13. Roman to Integer
+64.6%
+Easy
+
+22. Generate Parentheses
+76.9%
+Med.
+
+17. Letter Combinations of a Phone Number
+63.5%
+Med.
+
+424. Longest Repeating Character Replacement
+56.8%
+Med.
+
+49. Group Anagrams
+70.7%
+Med.
+
+28. Find the Index of the First Occurrence in a String
+44.7%
+Easy
+
+394. Decode String
+60.9%
+Med.
+
+6. Zigzag Conversion
+51.2%
+Med.
+
+10. Regular Expression Matching
+29.1%
+Hard
+
+224. Basic Calculator
+45.3%
+Hard
+
+242. Valid Anagram
+66.4%
+Easy
+
+67. Add Binary
+55.5%
+Easy
+
+68. Text Justification
+47.7%
+Hard
+
+843. Guess the Word
+37.8%
+Hard
+
+125. Valid Palindrome
+50.6%
+Easy
+
+131. Palindrome Partitioning
+71.7%
+Med.
+
+402. Remove K Digits
+34.7%
+Med.
+
+151. Reverse Words in a String
+51.1%
+Med.
+
+139. Word Break
+48.1%
+Med.
+
+1071. Greatest Common Divisor of Strings
+52.6%
+Easy
+
+79. Word Search
+45.0%
+Med.
+
+389. Find the Difference
+59.7%
+Easy
+
+567. Permutation in String
+47.0%
+Med.
+
+205. Isomorphic Strings
+46.6%
+Easy
+
+2115. Find All Possible Recipes from Given Supplies
+56.4%
+Med.
+
+2337. Move Pieces to Obtain a String
+56.9%
+Med.
+
+387. First Unique Character in a String
+63.5%
+Easy
+
+72. Edit Distance
+58.5%
+Med.
+
+44. Wildcard Matching
+29.6%
+Hard
+
+345. Reverse Vowels of a String
+57.7%
+Easy
+
+409. Longest Palindrome
+55.5%
+Easy
+
+179. Largest Number
+41.1%
+Med.
+
+392. Is Subsequence
+48.3%
+Easy
+
+32. Longest Valid Parentheses
+36.0%
+Hard
+
+127. Word Ladder
+42.4%
+Hard
+
+208. Implement Trie (Prefix Tree)
+67.6%
+Med.
+
+269. Alien Dictionary
+36.6%
+Hard
+
+8. String to Integer (atoi)
+19.0%
+Med.
+
+399. Evaluate Division
+62.9%
+Med.
+
+767. Reorganize String
+56.0%
+Med.
+
+58. Length of Last Word
+55.9%
+Easy
+
+76. Minimum Window Substring
+45.0%
+Hard
+
+282. Expression Add Operators
+41.4%
+Hard
+
+2981. Find Longest Special Substring That Occurs Thrice I
+61.9%
+Med.
+
+1143. Longest Common Subsequence
+58.1%
+Med.
+
+344. Reverse String
+79.6%
+Easy
+
+459. Repeated Substring Pattern
+46.8%
+Easy
+
+2663. Lexicographically Smallest Beautiful String
+36.6%
+Hard
+
+71. Simplify Path
+47.3%
+Med.
+
+721. Accounts Merge
+59.2%
+Med.
+
+777. Swap Adjacent in LR String
+37.5%
+Med.
+
+214. Shortest Palindrome
+40.5%
+Hard
+
+273. Integer to English Words
+34.3%
+Hard
+
+539. Minimum Time Difference
+62.3%
+Med.
+
+833. Find And Replace in String
+51.4%
+Med.
+
+140. Word Break II
+53.3%
+Hard
+
+443. String Compression
+57.8%
+Med.
+
+12. Integer to Roman
+68.2%
+Med.
+
+30. Substring with Concatenation of All Words
+32.9%
+Hard
+
+412. Fizz Buzz
+74.2%
+Easy
+
+415. Add Strings
+51.8%
+Easy
+
+1422. Maximum Score After Splitting a String
+65.2%
+Easy
+
+3110. Score of a String
+91.9%
+Easy
+
+297. Serialize and Deserialize Binary Tree
+58.7%
+Hard
+
+388. Longest Absolute File Path
+48.3%
+Med.
+
+418. Sentence Screen Fitting
+36.3%
+Med.
+
+451. Sort Characters By Frequency
+73.9%
+Med.
+
+796. Rotate String
+63.8%
+Easy
+
+3481. Apply Substitutions
+78.3%
+Med.
+
+1930. Unique Length-3 Palindromic Subsequences
+70.9%
+Med.
+
+212. Word Search II
+37.2%
+Hard
+
+249. Group Shifted Strings
+67.2%
+Med.
+
+316. Remove Duplicate Letters
+51.1%
+Med.
+
+2437. Number of Valid Clock Times
+47.3%
+Easy
+
+1769. Minimum Number of Operations to Move All Balls to Each Box
+90.1%
+Med.
+
+680. Valid Palindrome II
+42.8%
+Easy
+
+844. Backspace String Compare
+49.4%
+Easy
+
+1249. Minimum Remove to Make Valid Parentheses
+70.5%
+Med.
+
+91. Decode Ways
+36.3%
+Med.
+
+383. Ransom Note
+64.3%
+Easy
+
+541. Reverse String II
+51.9%
+Easy
+
+38. Count and Say
+60.2%
+Med.
+
+271. Encode and Decode Strings
+49.3%
+Med.
+
+2284. Sender With Largest Word Count
+58.1%
+Med.
+
+514. Freedom Trail
+58.8%
+Hard
+
+647. Palindromic Substrings
+71.5%
+Med.
+
+681. Next Closest Time
+46.9%
+Med.
+
+2842. Count K-Subsequences of a String With Maximum Beauty
+29.5%
+Hard
+
+1021. Remove Outermost Parentheses
+85.3%
+Easy
+
+1233. Remove Sub-Folders from the Filesystem
+75.7%
+Med.
+
+1544. Make The String Great
+68.2%
+Easy
+
+686. Repeated String Match
+36.5%
+Med.
+
+916. Word Subsets
+55.7%
+Med.
+
+981. Time Based Key-Value Store
+49.3%
+Med.
+
+166. Fraction to Recurring Decimal
+26.1%
+Med.
+
+168. Excel Sheet Column Title
+43.2%
+Easy
+
+2185. Counting Words With a Given Prefix
+84.5%
+Easy
+
+257. Binary Tree Paths
+66.2%
+Easy
+
+299. Bulls and Cows
+51.2%
+Med.
+
+336. Palindrome Pairs
+36.1%
+Hard
+
+726. Number of Atoms
+65.0%
+Hard
+
+792. Number of Matching Subsequences
+50.7%
+Med.
+
+859. Buddy Strings
+33.6%
+Easy
+
+988. Smallest String Starting From Leaf
+60.7%
+Med.
+
+1366. Rank Teams by Votes
+59.2%
+Med.
+
+1525. Number of Good Ways to Split a String
+68.3%
+Med.
+
+1781. Sum of Beauty of All Substrings
+70.1%
+Med.
+
+43. Multiply Strings
+42.1%
+Med.
+
+241. Different Ways to Add Parentheses
+72.2%
+Med.
+
+247. Strobogrammatic Number II
+53.1%
+Med.
+
+318. Maximum Product of Word Lengths
+60.5%
+Med.
+
+408. Valid Word Abbreviation
+36.8%
+Easy
+
+942. DI String Match
+79.9%
+Easy
+
+2982. Find Longest Special Substring That Occurs Thrice II
+38.3%
+Med.
+
+1593. Split a String Into the Max Number of Unique Substrings
+68.3%
+Med.
+
+1813. Sentence Similarity III
+48.6%
+Med.
+
+115. Distinct Subsequences
+49.8%
+Hard
+
+227. Basic Calculator II
+45.6%
+Med.
+
+2296. Design a Text Editor
+46.8%
+Hard
+
+438. Find All Anagrams in a String
+52.0%
+Med.
+
+482. License Key Formatting
+44.6%
+Easy
+
+520. Detect Capital
+56.1%
+Easy
+
+522. Longest Uncommon Subsequence II
+42.8%
+Med.
+
+583. Delete Operation for Two Strings
+63.4%
+Med.
+
+929. Unique Email Addresses
+67.5%
+Easy
+
+2955. Number of Same-End Substrings
+61.3%
+Med.
+
+1268. Search Suggestions System
+65.0%
+Med.
+
+1807. Evaluate the Bracket Pairs of a String
+68.0%
+Med.
+
+1987. Number of Unique Good Subsequences
+52.1%
+Hard
+
+2351. First Letter to Appear Twice
+74.1%
+Easy
+
+395. Longest Substring with At Least K Repeating Characters
+45.4%
+Med.
+
+481. Magical String
+52.3%
+Med.
+
+2446. Determine if Two Events Have Conflict
+52.2%
+Easy
+
+551. Student Attendance Record I
+49.5%
+Easy
+
+809. Expressive Words
+46.3%
+Med.
+
+1079. Letter Tile Possibilities
+83.5%
+Med.
+
+1138. Alphabet Board Path
+51.6%
+Med.
+
+1616. Split Two Strings to Make Palindrome
+31.3%
+Med.
+
+1717. Maximum Score From Removing Substrings
+62.8%
+Med.
+
+1871. Jump Game VII
+25.4%
+Med.
+
+97. Interleaving String
+42.0%
+Med.
+
+159. Longest Substring with At Most Two Distinct Characters
+56.2%
+Med.
+
+2103. Rings and Rods
+81.1%
+Easy
+
+246. Strobogrammatic Number
+47.6%
+Easy
+
+293. Flip Game
+64.9%
+Easy
+
+2255. Count Prefixes of a Given String
+73.8%
+Easy
+
+2224. Minimum Number of Operations to Convert Time
+65.4%
+Easy
+
+340. Longest Substring with At Most K Distinct Characters
+49.4%
+Med.
+
+358. Rearrange String k Distance Apart
+39.3%
+Hard
+
+524. Longest Word in Dictionary through Deleting
+51.7%
+Med.
+
+564. Find the Closest Palindrome
+31.6%
+Hard
+
+604. Design Compressed String Iterator
+40.1%
+Easy
+
+616. Add Bold Tag in String
+50.9%
+Med.
+
+642. Design Search Autocomplete System
+49.3%
+Hard
+
+657. Robot Return to Origin
+76.1%
+Easy
+
+692. Top K Frequent Words
+59.1%
+Med.
+
+727. Minimum Window Subsequence
+43.6%
+Hard
+
+906. Super Palindromes
+39.2%
+Hard
+
+926. Flip String to Monotone Increasing
+61.6%
+Med.
+
+955. Delete Columns to Make Sorted II
+35.5%
+Med.
+
+1087. Brace Expansion
+66.7%
+Med.
+
+1032. Stream of Characters
+51.1%
+Hard
+
+1047. Remove All Adjacent Duplicates In String
+71.3%
+Easy
+
+1108. Defanging an IP Address
+89.6%
+Easy
+
+1147. Longest Chunked Palindrome Decomposition
+58.8%
+Hard
+
+3093. Longest Common Suffix Queries
+36.8%
+Hard
+
+3137. Minimum Number of Operations to Make Word K-Periodic
+59.6%
+Med.
+
+1358. Number of Substrings Containing All Three Characters
+73.0%
+Med.
+
+1392. Longest Happy Prefix
+48.7%
+Hard
+
+3472. Longest Palindromic Subsequence After at Most K Operations
+36.0%
+Med.
+
+1736. Latest Time by Replacing Hidden Digits
+43.0%
+Easy
+
+1888. Minimum Number of Flips to Make the Binary String Alternating
+40.4%
+Med.
+
+1910. Remove All Occurrences of a Substring
+78.0%
+Med.
+
+1980. Find Unique Binary String
+79.3%
+Med.
+
+2096. Step-By-Step Directions From a Binary Tree Node to Another
+56.3%
+Med.
+
+2114. Maximum Number of Words Found in Sentences
+86.6%
+Easy
+
+2116. Check if a Parentheses String Can Be Valid
+44.8%
+Med.
+
+211. Design Add and Search Words Data Structure
+46.8%
+Med.
+
+266. Palindrome Permutation
+68.5%
+Easy
+
+331. Verify Preorder Serialization of a Binary Tree
+46.0%
+Med.
+
+2315. Count Asterisks
+82.7%
+Easy
+
+2416. Sum of Prefix Scores of Strings
+60.7%
+Hard
+
+471. Encode String with Shortest Length
+50.5%
+Hard
+
+474. Ones and Zeroes
+48.7%
+Med.
+
+527. Word Abbreviation
+61.8%
+Hard
+
+535. Encode and Decode TinyURL
+86.3%
+Med.
+
+544. Output Contest Matches
+77.4%
+Med.
+
+2531. Make Number of Distinct Characters Equal
+26.9%
+Med.
+
+676. Implement Magic Dictionary
+56.5%
+Med.
+
+678. Valid Parenthesis String
+38.8%
+Med.
+
+734. Sentence Similarity
+44.6%
+Easy
+
+737. Sentence Similarity II
+50.6%
+Med.
+
+771. Jewels and Stones
+89.2%
+Easy
+
+838. Push Dominoes
+57.4%
+Med.
+
+839. Similar String Groups
+55.3%
+Hard
+
+854. K-Similar Strings
+40.0%
+Hard
+
+917. Reverse Only Letters
+66.6%
+Easy
+
+921. Minimum Add to Make Parentheses Valid
+74.7%
+Med.
+
+2851. String Transformation
+24.9%
+Hard
+
+960. Delete Columns to Make Sorted III
+58.5%
+Hard
+
+1028. Recover a Tree From Preorder Traversal
+83.3%
+Hard
+
+1165. Single-Row Keyboard
+87.7%
+Easy
+
+1081. Smallest Subsequence of Distinct Characters
+61.8%
+Med.
+
+3174. Clear Digits
+82.6%
+Easy
+
+1320. Minimum Distance to Type a Word Using Two Fingers
+59.0%
+Hard
+
+3327. Check if DFS Strings Are Palindromes
+17.8%
+Hard
+
+1461. Check If a String Contains All Binary Codes of Size K
+56.6%
+Med.
+
+1528. Shuffle String
+85.1%
+Easy
+
+1585. Check If String Is Transformable With Substring Sort Operations
+48.3%
+Hard
+
+1592. Rearrange Spaces Between Words
+43.9%
+Easy
+
+1844. Replace All Digits with Characters
+82.0%
+Easy
+
+1850. Minimum Adjacent Swaps to Reach the Kth Smallest Number
+71.1%
+Med.
+
+1915. Number of Wonderful Substrings
+66.6%
+Med.
+
+2135. Count Words Obtained After Adding a Letter
+43.4%
+Med.
+
+2167. Minimum Time to Remove All Cars Containing Illegal Goods
+41.1%
+Hard
+
+2209. Minimum White Tiles After Covering With Carpets
+36.9%
+Hard
+
+288. Unique Word Abbreviation
+27.0%
+Med.
+
+320. Generalized Abbreviation
+60.0%
+Med.
+
+2283. Check if Number Has Equal Digit Count and Digit Value
+72.3%
+Easy
+
+2311. Longest Binary Subsequence Less Than or Equal to K
+38.1%
+Med.
+
+411. Minimum Unique Word Abbreviation
+40.1%
+Hard
+
+2381. Shifting Letters II
+53.3%
+Med.
+
+425. Word Squares
+53.9%
+Hard
+
+484. Find Permutation
+66.9%
+Med.
+
+2452. Words Within Two Edits of Dictionary
+61.2%
+Med.
+
+521. Longest Uncommon Subsequence I
+61.2%
+Easy
+
+2478. Number of Beautiful Partitions
+32.0%
+Hard
+
+748. Shortest Completing Word
+61.2%
+Easy
+
+758. Bold Words in String
+52.1%
+Med.
+
+800. Similar RGB Color
+67.8%
+Easy
+
+816. Ambiguous Coordinates
+55.8%
+Med.
+
+830. Positions of Large Groups
+52.8%
+Easy
+
+944. Delete Columns to Make Sorted
+74.7%
+Easy
+
+1002. Find Common Characters
+74.5%
+Easy
+
+1055. Shortest Way to Form String
+61.3%
+Med.
+
+1016. Binary String With Substrings Representing 1 To N
+57.9%
+Med.
+
+1023. Camelcase Matching
+63.5%
+Med.
+
+1153. String Transforms Into Another String
+34.8%
+Hard
+
+1078. Occurrences After Bigram
+63.6%
+Easy
+
+1096. Brace Expansion II
+63.1%
+Hard
+
+1286. Iterator for Combination
+72.4%
+Med.
+
+1316. Distinct Echo Substrings
+51.8%
+Hard
+
+3008. Find Beautiful Indices in the Given Array II
+26.1%
+Hard
+
+1170. Compare Strings by Frequency of the Smallest Character
+62.6%
+Med.
+
+3114. Latest Time You Can Obtain After Replacing Characters
+34.2%
+Easy
+
+1618. Maximum Font to Fit a Sentence in a Screen
+61.3%
+Med.
+
+1447. Simplified Fractions
+68.1%
+Med.
+
+1452. People Whose List of Favorite Companies Is Not a Subset of Another List
+59.1%
+Med.
+
+1513. Number of Substrings With Only 1s
+47.8%
+Med.
+
+1639. Number of Ways to Form a Target String Given a Dictionary
+57.2%
+Hard
+
+3529. Count Cells in Overlapping Horizontal and Vertical Substrings
+19.1%
+Med.
+
+1737. Change Minimum Characters to Satisfy One of Three Conditions
+37.0%
+Med.
+
+1794. Count Pairs of Equal Substrings With Minimum Difference
+63.7%
+Med.
+
+1896. Minimum Cost to Change the Final Value of Expression
+50.7%
+Hard
+
+1963. Minimum Number of Swaps to Make the String Balanced
+77.9%
+Med.
+
+572. Subtree of Another Tree
+49.7%
+Easy
+
+428. Serialize and Deserialize N-ary Tree
+68.2%
+Hard
+
+1106. Parsing A Boolean Expression
+69.9%
+Hard
+
+1653. Minimum Deletions to Make String Balanced
+65.6%
+Med.
+
+1832. Check if the Sentence Is Pangram
+83.8%
+Easy
+
+87. Scramble String
+42.0%
+Hard
+
+290. Word Pattern
+43.0%
+Easy
+
+516. Longest Palindromic Subsequence
+63.9%
+Med.
+
+588. Design In-Memory File System
+48.1%
+Hard
+
+664. Strange Printer
+60.8%
+Hard
+
+752. Open the Lock
+60.7%
+Med.
+
+925. Long Pressed Name
+32.5%
+Easy
+
+1048. Longest String Chain
+61.8%
+Med.
+
+1092. Shortest Common Supersequence
+61.2%
+Hard
+
+3163. String Compression III
+66.8%
+Med.
+
+93. Restore IP Addresses
+52.8%
+Med.
+
+126. Word Ladder II
+27.1%
+Hard
+
+2109. Adding Spaces to a String
+71.6%
+Med.
+
+187. Repeated DNA Sequences
+51.0%
+Med.
+
+763. Partition Labels
+81.5%
+Med.
+
+2914. Minimum Number of Changes to Make Binary String Beautiful
+76.5%
+Med.
+
+1759. Count Number of Homogenous Substrings
+57.4%
+Med.
+
+2131. Longest Palindrome by Concatenating Two Letter Words
+47.9%
+Med.
+
+2182. Construct String With Repeat Limit
+70.9%
+Med.
+
+500. Keyboard Row
+72.3%
+Easy
+
+2516. Take K of Each Character From Left and Right
+51.6%
+Med.
+
+592. Fraction Addition and Subtraction
+66.1%
+Med.
+
+2678. Number of Senior Citizens
+81.3%
+Easy
+
+2645. Minimum Additions to Make Valid String
+50.1%
+Med.
+
+772. Basic Calculator III
+52.2%
+Hard
+
+949. Largest Time for Given Digits
+35.5%
+Med.
+
+3043. Find the Length of the Longest Common Prefix
+56.3%
+Med.
+
+1405. Longest Happy String
+65.4%
+Med.
+
+1371. Find the Longest Substring Containing Vowels in Even Counts
+75.8%
+Med.
+
+1400. Construct K Palindrome Strings
+68.7%
+Med.
+
+1415. The k-th Lexicographical String of All Happy Strings of Length n
+85.1%
+Med.
+
+1408. String Matching in an Array
+69.8%
+Easy
+
+1456. Maximum Number of Vowels in a Substring of Given Length
+60.1%
+Med.
+
+1662. Check If Two String Arrays are Equivalent
+85.7%
+Easy
+
+1684. Count the Number of Consistent Strings
+88.3%
+Easy
+
+1903. Largest Odd Number in String
+64.8%
+Easy
+
+2259. Remove Digit From Number to Maximize Result
+47.1%
+Easy
+
+301. Remove Invalid Parentheses
+49.1%
+Hard
+
+433. Minimum Genetic Mutation
+55.3%
+Med.
+
+557. Reverse Words in a String III
+83.6%
+Easy
+
+649. Dota2 Senate
+48.7%
+Med.
+
+709. To Lower Case
+84.1%
+Easy
+
+806. Number of Lines To Write String
+70.4%
+Easy
+
+819. Most Common Word
+44.5%
+Easy
+
+940. Distinct Subsequences II
+43.5%
+Hard
+
+943. Find the Shortest Superstring
+44.2%
+Hard
+
+953. Verifying an Alien Dictionary
+55.5%
+Easy
+
+1166. Design File System
+64.0%
+Med.
+
+2938. Separate Black and White Balls
+64.1%
+Med.
+
+2999. Count the Number of Powerful Integers
+46.6%
+Hard
+
+1190. Reverse Substrings Between Each Pair of Parentheses
+71.7%
+Med.
+
+1347. Minimum Number of Steps to Make Two Strings Anagram
+82.1%
+Med.
+
+1404. Number of Steps to Reduce a Number in Binary Representation to One
+61.4%
+Med.
+
+3303. Find the Occurrence of First Almost Equal Substring
+13.5%
+Hard
+
+1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence
+68.7%
+Easy
+
+1614. Maximum Nesting Depth of the Parentheses
+84.3%
+Easy
+
+1657. Determine if Two Strings Are Close
+54.1%
+Med.
+
+1859. Sorting the Sentence
+83.7%
+Easy
+
+65. Valid Number
+21.4%
+Hard
+
+2024. Maximize the Confusion of an Exam
+68.4%
+Med.
+
+2011. Final Value of Variable After Performing Operations
+89.5%
+Easy
+
+165. Compare Version Numbers
+42.2%
+Med.
+
+171. Excel Sheet Column Number
+65.5%
+Easy
+
+2108. Find First Palindromic String in the Array
+83.9%
+Easy
+
+2353. Design a Food Rating System
+44.8%
+Med.
+
+2379. Minimum Recolors to Get K Consecutive Black Blocks
+68.4%
+Easy
+
+2390. Removing Stars From a String
+77.7%
+Med.
+
+2486. Append Characters to String to Make Subsequence
+73.0%
+Med.
+
+556. Next Greater Element III
+34.5%
+Med.
+
+609. Find Duplicate File in System
+67.6%
+Med.
+
+648. Replace Words
+68.3%
+Med.
+
+2707. Extra Characters in a String
+57.0%
+Med.
+
+722. Remove Comments
+39.3%
+Med.
+
+2696. Minimum String Length After Removing Substrings
+77.1%
+Easy
+
+884. Uncommon Words from Two Sentences
+75.3%
+Easy
+
+990. Satisfiability of Equality Equations
+50.9%
+Med.
+
+1209. Remove All Adjacent Duplicates in String II
+59.4%
+Med.
+
+1247. Minimum Swaps to Make Strings Equal
+64.6%
+Med.
+
+3211. Generate Binary Strings Without Adjacent Zeros
+87.0%
+Med.
+
+3228. Maximum Number of Operations to Move Ones to the End
+53.0%
+Med.
+
+1436. Destination City
+79.4%
+Easy
+
+1496. Path Crossing
+62.5%
+Easy
+
+1545. Find Kth Bit in Nth Binary String
+70.2%
+Med.
+
+1790. Check if One String Swap Can Make Strings Equal
+49.5%
+Easy
+
+1945. Sum of Digits of String After Convert
+74.7%
+Easy
+
+2000. Reverse Prefix of Word
+86.4%
+Easy
+
+2027. Minimum Moves to Convert String
+56.3%
+Easy
+
+2053. Kth Distinct String in an Array
+82.0%
+Easy
+
+132. Palindrome Partitioning II
+35.1%
+Hard
+
+2062. Count Vowel Substrings of a String
+70.9%
+Easy
+
+2264. Largest 3-Same-Digit Number in String
+69.1%
+Easy
+
+2375. Construct Smallest Number From DI String
+85.8%
+Med.
+
+420. Strong Password Checker
+14.5%
+Hard
+
+2405. Optimal Partition of String
+78.2%
+Med.
+
+2418. Sort the People
+84.8%
+Easy
+
+2522. Partition String Into Substrings With Values at Most K
+46.4%
+Med.
+
+2423. Remove Letter To Equalize Frequency
+18.1%
+Easy
+
+2483. Minimum Penalty for a Shop
+67.5%
+Med.
+
+2484. Count Palindromic Subsequences
+39.1%
+Hard
+
+631. Design Excel Sum Formula
+43.4%
+Hard
+
+2573. Find the String with LCP
+31.5%
+Hard
+
+2575. Find the Divisibility Array of a String
+34.5%
+Med.
+
+691. Stickers to Spell Word
+50.0%
+Hard
+
+745. Prefix and Suffix Search
+40.4%
+Hard
+
+2800. Shortest String That Contains Three Strings
+30.6%
+Med.
+
+2785. Sort Vowels in a String
+79.3%
+Med.
+
+821. Shortest Distance to a Character
+72.1%
+Easy
+
+2896. Apply Operations to Make Two Strings Equal
+27.1%
+Med.
+
+2864. Maximum Odd Binary Number
+82.7%
+Easy
+
+1062. Longest Repeating Substring
+62.9%
+Med.
+
+2976. Minimum Cost to Convert String I
+57.7%
+Med.
+
+1154. Day of the Year
+48.0%
+Easy
+
+1360. Number of Days Between Two Dates
+51.2%
+Easy
+
+1255. Maximum Score Words Formed by Letters
+81.6%
+Hard
+
+3234. Count the Number of Substrings With Dominant Ones
+16.7%
+Med.
+
+1312. Minimum Insertion Steps to Make a String Palindrome
+72.1%
+Hard
+
+3260. Find the Largest Palindrome Divisible by K
+15.2%
+Hard
+
+1410. HTML Entity Parser
+50.2%
+Med.
+
+3337. Total Characters in String After Transformations II
+31.5%
+Hard
+
+1647. Minimum Deletions to Make Character Frequencies Unique
+61.3%
+Med.
+
+1704. Determine if String Halves Are Alike
+78.6%
+Easy
+
+1750. Minimum Length of String After Deleting Similar Ends
+55.9%
+Med.
+
+1763. Longest Nice Substring
+62.2%
+Easy
+
+1941. Check if All Characters Have Equal Number of Occurrences
+78.4%
+Easy
+
+1948. Delete Duplicate Folders in System
+53.6%
+Hard
+
+2055. Plates Between Candles
+46.5%
+Med.
+
+161. One Edit Distance
+34.5%
+Med.
+
+2138. Divide a String Into Groups of Size k
+67.4%
+Easy
+
+2262. Total Appeal of A String
+55.7%
+Hard
+
+306. Additive Number
+32.4%
+Med.
+
+2306. Naming a Company
+46.3%
+Hard
+
+2370. Longest Ideal Subsequence
+46.9%
+Med.
+
+2380. Time Needed to Rearrange a Binary String
+51.5%
+Med.
+
+423. Reconstruct Original Digits from English
+51.5%
+Med.
+
+434. Number of Segments in a String
+36.3%
+Easy
+
+449. Serialize and Deserialize BST
+58.5%
+Med.
+
+2506. Count Pairs Of Similar Strings
+72.3%
+Easy
+
+635. Design Log Storage System
+59.2%
+Med.
+
+2559. Count Vowel Strings in Ranges
+67.9%
+Med.
+
+696. Count Binary Substrings
+65.8%
+Easy
+
+712. Minimum ASCII Delete Sum for Two Strings
+65.6%
+Med.
+
+736. Parse Lisp Expression
+52.5%
+Hard
+
+761. Special Binary String
+63.3%
+Hard
+
+2697. Lexicographically Smallest Palindrome
+79.0%
+Easy
+
+770. Basic Calculator IV
+48.5%
+Hard
+
+2744. Find Maximum Number of String Pairs
+81.4%
+Easy
+
+791. Custom Sort String
+71.9%
+Med.
+
+804. Unique Morse Code Words
+83.2%
+Easy
+
+2781. Length of the Longest Valid Substring
+37.6%
+Hard
+
+842. Split Array into Fibonacci Sequence
+39.6%
+Med.
+
+848. Shifting Letters
+45.4%
+Med.
+
+856. Score of Parentheses
+63.7%
+Med.
+
+1044. Longest Duplicate Substring
+30.7%
+Hard
+
+3014. Minimum Number of Pushes to Type Word I
+66.1%
+Easy
+
+3016. Minimum Number of Pushes to Type Word II
+79.9%
+Med.
+
+1156. Swap For Longest Repeated Character Substring
+43.6%
+Med.
+
+3042. Count Prefix and Suffix Pairs I
+77.7%
+Easy
+
+1957. Delete Characters to Make Fancy String
+71.6%
+Easy
+
+1202. Smallest String With Swaps
+59.2%
+Med.
+
+1221. Split a String in Balanced Strings
+86.7%
+Easy
+
+3121. Count the Number of Special Characters II
+41.9%
+Med.
+
+3120. Count the Number of Special Characters I
+65.1%
+Easy
+
+3146. Permutation Difference between Two Strings
+87.1%
+Easy
+
+1307. Verbal Arithmetic Puzzle
+34.7%
+Hard
+
+2227. Encrypt and Decrypt Strings
+36.7%
+Hard
+
+3316. Find Maximum Removals From Source String
+37.7%
+Med.
+
+3325. Count Substrings With K-Frequency Characters I
+54.3%
+Med.
+
+3248. Snake in Matrix
+81.5%
+Easy
+
+3271. Hash Divided String
+82.9%
+Med.
+
+3258. Count Substrings That Satisfy K-Constraint I
+77.7%
+Easy
+
+1397. Find All Good Strings
+43.5%
+Hard
+
+3280. Convert Date to Binary
+88.3%
+Easy
+
+3387. Maximize Amount After Two Days of Conversions
+58.2%
+Med.
+
+3389. Minimum Operations to Make Character Frequencies Equal
+24.5%
+Hard
+
+1531. String Compression II
+52.0%
+Hard
+
+1541. Minimum Insertions to Balance a Parentheses String
+53.1%
+Med.
+
+1542. Find Longest Awesome Substring
+45.0%
+Hard
+
+1578. Minimum Time to Make Rope Colorful
+63.5%
+Med.
+
+1598. Crawler Log Folder
+71.6%
+Easy
+
+1624. Largest Substring Between Two Equal Characters
+68.2%
+Easy
+
+1668. Maximum Repeating Substring
+39.4%
+Easy
+
+1678. Goal Parser Interpretation
+87.6%
+Easy
+
+1689. Partitioning Into Minimum Number Of Deci-Binary Numbers
+88.6%
+Med.
+
+1771. Maximize Palindrome Length From Subsequences
+37.1%
+Hard
+
+1773. Count Items Matching a Rule
+84.9%
+Easy
